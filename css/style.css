@@ -1,0 +1,76 @@
+
+.container-fluid{
+    padding: 10px;
+    text-align: center;
+}
+
+.main-content{
+    display: inline-block;
+    border: solid 1px;
+    border-radius: 5px;
+    width: 800px;
+}
+
+.header{
+    padding: 15px 25px;
+}
+
+.profile-picture{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    border-radius: 100%;
+}
+
+.centered{
+    text-align: center;
+}
+
+.info-box{
+    padding: 5px 25px;
+}
+
+.full-name{
+    font-size: 40px;
+}
+
+.username{
+    font-size: 25px;
+}
+
+.boxes{
+    margin-top: 10px;
+    display: inline-block;
+    border: solid 1px;
+    border-radius: 5px;
+    position: relative;
+    width: 60%;
+    padding: 5px 4px;
+}
+
+.bio{
+    text-align: justify;
+    padding: 5px 10px;
+    border: none;
+}
+
+.bio-content{
+    display: block;
+    margin: 4px 0;
+}
+
+.media-box{
+    width: 100%;
+    border: none;
+}
+
+.media{
+    border: solid 1px;
+    border-radius: 5px;
+    display: inline-block;
+    position: relative;
+    width: 240px;
+    height: 240px;
+    margin: 0px 2px 2px 2px;
+    object-fit: cover;
+}
